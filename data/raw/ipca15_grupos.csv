@@ -1,0 +1,703 @@
+data,grupo,valor
+2020-02-01,1.Alimentação e bebidas,-0.1
+2020-02-01,2.Habitação,0.07
+2020-02-01,3.Artigos de residência,0.17
+2020-02-01,4.Vestuário,-0.83
+2020-02-01,5.Transportes,0.2
+2020-02-01,6.Saúde e cuidados pessoais,-0.29
+2020-02-01,7.Despesas pessoais,0.31
+2020-02-01,8.Educação,3.61
+2020-02-01,9.Comunicação,0.02
+2020-03-01,1.Alimentação e bebidas,0.35
+2020-03-01,2.Habitação,-0.28
+2020-03-01,3.Artigos de residência,-0.05
+2020-03-01,4.Vestuário,-0.22
+2020-03-01,5.Transportes,-0.8
+2020-03-01,6.Saúde e cuidados pessoais,0.84
+2020-03-01,7.Despesas pessoais,0.03
+2020-03-01,8.Educação,0.61
+2020-03-01,9.Comunicação,0.33
+2020-04-01,1.Alimentação e bebidas,2.46
+2020-04-01,2.Habitação,0.12
+2020-04-01,3.Artigos de residência,-3.19
+2020-04-01,4.Vestuário,0.01
+2020-04-01,5.Transportes,-1.47
+2020-04-01,6.Saúde e cuidados pessoais,-0.32
+2020-04-01,7.Despesas pessoais,-0.28
+2020-04-01,8.Educação,-0.01
+2020-04-01,9.Comunicação,-0.3
+2020-05-01,1.Alimentação e bebidas,0.46
+2020-05-01,2.Habitação,-0.27
+2020-05-01,3.Artigos de residência,0.45
+2020-05-01,4.Vestuário,-0.2
+2020-05-01,5.Transportes,-3.15
+2020-05-01,6.Saúde e cuidados pessoais,-0.13
+2020-05-01,7.Despesas pessoais,-0.09
+2020-05-01,8.Educação,0.01
+2020-05-01,9.Comunicação,0.22
+2020-06-01,1.Alimentação e bebidas,0.47
+2020-06-01,2.Habitação,-0.07
+2020-06-01,3.Artigos de residência,1.36
+2020-06-01,4.Vestuário,-0.15
+2020-06-01,5.Transportes,-0.71
+2020-06-01,6.Saúde e cuidados pessoais,-0.01
+2020-06-01,7.Despesas pessoais,-0.03
+2020-06-01,8.Educação,0.03
+2020-06-01,9.Comunicação,0.66
+2020-07-01,1.Alimentação e bebidas,-0.13
+2020-07-01,2.Habitação,0.5
+2020-07-01,3.Artigos de residência,0.68
+2020-07-01,4.Vestuário,-0.91
+2020-07-01,5.Transportes,1.11
+2020-07-01,6.Saúde e cuidados pessoais,0.4
+2020-07-01,7.Despesas pessoais,-0.23
+2020-07-01,8.Educação,-0.07
+2020-07-01,9.Comunicação,0.46
+2020-08-01,1.Alimentação e bebidas,0.34
+2020-08-01,2.Habitação,0.57
+2020-08-01,3.Artigos de residência,0.88
+2020-08-01,4.Vestuário,-0.63
+2020-08-01,5.Transportes,0.75
+2020-08-01,6.Saúde e cuidados pessoais,0.62
+2020-08-01,7.Despesas pessoais,0.03
+2020-08-01,8.Educação,-3.27
+2020-08-01,9.Comunicação,0.86
+2020-09-01,1.Alimentação e bebidas,1.48
+2020-09-01,2.Habitação,0.34
+2020-09-01,3.Artigos de residência,0.79
+2020-09-01,4.Vestuário,-0.27
+2020-09-01,5.Transportes,0.83
+2020-09-01,6.Saúde e cuidados pessoais,-0.69
+2020-09-01,7.Despesas pessoais,0.09
+2020-09-01,8.Educação,-0.11
+2020-09-01,9.Comunicação,0.15
+2020-10-01,1.Alimentação e bebidas,2.24
+2020-10-01,2.Habitação,0.4
+2020-10-01,3.Artigos de residência,1.41
+2020-10-01,4.Vestuário,0.84
+2020-10-01,5.Transportes,1.34
+2020-10-01,6.Saúde e cuidados pessoais,0.28
+2020-10-01,7.Despesas pessoais,0.14
+2020-10-01,8.Educação,-0.02
+2020-10-01,9.Comunicação,0.23
+2020-11-01,1.Alimentação e bebidas,2.16
+2020-11-01,2.Habitação,0.34
+2020-11-01,3.Artigos de residência,1.4
+2020-11-01,4.Vestuário,0.96
+2020-11-01,5.Transportes,1
+2020-11-01,6.Saúde e cuidados pessoais,0.04
+2020-11-01,7.Despesas pessoais,0.14
+2020-11-01,8.Educação,0.01
+2020-11-01,9.Comunicação,0.06
+2020-12-01,1.Alimentação e bebidas,2
+2020-12-01,2.Habitação,1.5
+2020-12-01,3.Artigos de residência,1.35
+2020-12-01,4.Vestuário,-0.44
+2020-12-01,5.Transportes,1.43
+2020-12-01,6.Saúde e cuidados pessoais,0.03
+2020-12-01,7.Despesas pessoais,0.39
+2020-12-01,8.Educação,0.34
+2020-12-01,9.Comunicação,0.46
+2021-01-01,1.Alimentação e bebidas,1.53
+2021-01-01,2.Habitação,1.44
+2021-01-01,3.Artigos de residência,0.81
+2021-01-01,4.Vestuário,0.85
+2021-01-01,5.Transportes,0.14
+2021-01-01,6.Saúde e cuidados pessoais,0.66
+2021-01-01,7.Despesas pessoais,0.4
+2021-01-01,8.Educação,0.11
+2021-01-01,9.Comunicação,-0.01
+2021-02-01,1.Alimentação e bebidas,0.56
+2021-02-01,2.Habitação,-0.74
+2021-02-01,3.Artigos de residência,1.01
+2021-02-01,4.Vestuário,0
+2021-02-01,5.Transportes,1.11
+2021-02-01,6.Saúde e cuidados pessoais,0.46
+2021-02-01,7.Despesas pessoais,0.15
+2021-02-01,8.Educação,2.39
+2021-02-01,9.Comunicação,-0.09
+2021-03-01,1.Alimentação e bebidas,0.12
+2021-03-01,2.Habitação,0.71
+2021-03-01,3.Artigos de residência,0.55
+2021-03-01,4.Vestuário,0.03
+2021-03-01,5.Transportes,3.79
+2021-03-01,6.Saúde e cuidados pessoais,0.24
+2021-03-01,7.Despesas pessoais,0.1
+2021-03-01,8.Educação,-0.51
+2021-03-01,9.Comunicação,0.02
+2021-04-01,1.Alimentação e bebidas,0.36
+2021-04-01,2.Habitação,0.45
+2021-04-01,3.Artigos de residência,0.55
+2021-04-01,4.Vestuário,0.17
+2021-04-01,5.Transportes,1.76
+2021-04-01,6.Saúde e cuidados pessoais,0.44
+2021-04-01,7.Despesas pessoais,0.05
+2021-04-01,8.Educação,0
+2021-04-01,9.Comunicação,-0.04
+2021-05-01,1.Alimentação e bebidas,0.48
+2021-05-01,2.Habitação,0.79
+2021-05-01,3.Artigos de residência,0.89
+2021-05-01,4.Vestuário,1.42
+2021-05-01,5.Transportes,-0.23
+2021-05-01,6.Saúde e cuidados pessoais,1.23
+2021-05-01,7.Despesas pessoais,0.09
+2021-05-01,8.Educação,0.08
+2021-05-01,9.Comunicação,0.03
+2021-06-01,1.Alimentação e bebidas,0.41
+2021-06-01,2.Habitação,1.67
+2021-06-01,3.Artigos de residência,1.38
+2021-06-01,4.Vestuário,0.88
+2021-06-01,5.Transportes,1.35
+2021-06-01,6.Saúde e cuidados pessoais,0.53
+2021-06-01,7.Despesas pessoais,0.32
+2021-06-01,8.Educação,0.03
+2021-06-01,9.Comunicação,0.15
+2021-07-01,1.Alimentação e bebidas,0.49
+2021-07-01,2.Habitação,2.14
+2021-07-01,3.Artigos de residência,0.81
+2021-07-01,4.Vestuário,0.58
+2021-07-01,5.Transportes,1.07
+2021-07-01,6.Saúde e cuidados pessoais,-0.24
+2021-07-01,7.Despesas pessoais,0.36
+2021-07-01,8.Educação,0.12
+2021-07-01,9.Comunicação,-0.04
+2021-08-01,1.Alimentação e bebidas,1.02
+2021-08-01,2.Habitação,1.97
+2021-08-01,3.Artigos de residência,1.05
+2021-08-01,4.Vestuário,0.94
+2021-08-01,5.Transportes,1.11
+2021-08-01,6.Saúde e cuidados pessoais,-0.29
+2021-08-01,7.Despesas pessoais,0.68
+2021-08-01,8.Educação,0.3
+2021-08-01,9.Comunicação,0.19
+2021-09-01,1.Alimentação e bebidas,1.27
+2021-09-01,2.Habitação,1.55
+2021-09-01,3.Artigos de residência,1.23
+2021-09-01,4.Vestuário,0.54
+2021-09-01,5.Transportes,2.22
+2021-09-01,6.Saúde e cuidados pessoais,0.33
+2021-09-01,7.Despesas pessoais,0.48
+2021-09-01,8.Educação,-0.01
+2021-09-01,9.Comunicação,0.02
+2021-10-01,1.Alimentação e bebidas,1.38
+2021-10-01,2.Habitação,1.87
+2021-10-01,3.Artigos de residência,0.53
+2021-10-01,4.Vestuário,1.32
+2021-10-01,5.Transportes,2.06
+2021-10-01,6.Saúde e cuidados pessoais,-0.01
+2021-10-01,7.Despesas pessoais,0.77
+2021-10-01,8.Educação,0.09
+2021-10-01,9.Comunicação,0.34
+2021-11-01,1.Alimentação e bebidas,0.4
+2021-11-01,2.Habitação,1.06
+2021-11-01,3.Artigos de residência,1.53
+2021-11-01,4.Vestuário,1.59
+2021-11-01,5.Transportes,2.89
+2021-11-01,6.Saúde e cuidados pessoais,0.8
+2021-11-01,7.Despesas pessoais,0.61
+2021-11-01,8.Educação,0.01
+2021-11-01,9.Comunicação,0.32
+2021-12-01,1.Alimentação e bebidas,0.35
+2021-12-01,2.Habitação,0.9
+2021-12-01,3.Artigos de residência,1.19
+2021-12-01,4.Vestuário,1.1
+2021-12-01,5.Transportes,2.31
+2021-12-01,6.Saúde e cuidados pessoais,-0.73
+2021-12-01,7.Despesas pessoais,0.51
+2021-12-01,8.Educação,0
+2021-12-01,9.Comunicação,0.15
+2022-01-01,1.Alimentação e bebidas,0.97
+2022-01-01,2.Habitação,0.62
+2022-01-01,3.Artigos de residência,1.4
+2022-01-01,4.Vestuário,1.48
+2022-01-01,5.Transportes,-0.41
+2022-01-01,6.Saúde e cuidados pessoais,0.93
+2022-01-01,7.Despesas pessoais,0.63
+2022-01-01,8.Educação,0.25
+2022-01-01,9.Comunicação,1.09
+2022-02-01,1.Alimentação e bebidas,1.2
+2022-02-01,2.Habitação,0.15
+2022-02-01,3.Artigos de residência,1.94
+2022-02-01,4.Vestuário,1.11
+2022-02-01,5.Transportes,0.87
+2022-02-01,6.Saúde e cuidados pessoais,-0.02
+2022-02-01,7.Despesas pessoais,0.78
+2022-02-01,8.Educação,5.64
+2022-02-01,9.Comunicação,0.27
+2022-03-01,1.Alimentação e bebidas,1.95
+2022-03-01,2.Habitação,0.53
+2022-03-01,3.Artigos de residência,1.47
+2022-03-01,4.Vestuário,0.95
+2022-03-01,5.Transportes,0.68
+2022-03-01,6.Saúde e cuidados pessoais,1.3
+2022-03-01,7.Despesas pessoais,0.44
+2022-03-01,8.Educação,0.14
+2022-03-01,9.Comunicação,0.04
+2022-04-01,1.Alimentação e bebidas,2.25
+2022-04-01,2.Habitação,1.73
+2022-04-01,3.Artigos de residência,0.94
+2022-04-01,4.Vestuário,1.97
+2022-04-01,5.Transportes,3.43
+2022-04-01,6.Saúde e cuidados pessoais,0.47
+2022-04-01,7.Despesas pessoais,0.52
+2022-04-01,8.Educação,0.05
+2022-04-01,9.Comunicação,-0.05
+2022-05-01,1.Alimentação e bebidas,1.52
+2022-05-01,2.Habitação,-3.85
+2022-05-01,3.Artigos de residência,0.98
+2022-05-01,4.Vestuário,1.86
+2022-05-01,5.Transportes,1.8
+2022-05-01,6.Saúde e cuidados pessoais,2.19
+2022-05-01,7.Despesas pessoais,0.74
+2022-05-01,8.Educação,0.06
+2022-05-01,9.Comunicação,0.5
+2022-06-01,1.Alimentação e bebidas,0.25
+2022-06-01,2.Habitação,0.66
+2022-06-01,3.Artigos de residência,0.94
+2022-06-01,4.Vestuário,1.77
+2022-06-01,5.Transportes,0.84
+2022-06-01,6.Saúde e cuidados pessoais,1.27
+2022-06-01,7.Despesas pessoais,0.54
+2022-06-01,8.Educação,0.07
+2022-06-01,9.Comunicação,0.36
+2022-07-01,1.Alimentação e bebidas,1.16
+2022-07-01,2.Habitação,-0.78
+2022-07-01,3.Artigos de residência,0.39
+2022-07-01,4.Vestuário,1.39
+2022-07-01,5.Transportes,-1.08
+2022-07-01,6.Saúde e cuidados pessoais,0.71
+2022-07-01,7.Despesas pessoais,0.79
+2022-07-01,8.Educação,0.07
+2022-07-01,9.Comunicação,-0.05
+2022-08-01,1.Alimentação e bebidas,1.12
+2022-08-01,2.Habitação,-0.37
+2022-08-01,3.Artigos de residência,0.08
+2022-08-01,4.Vestuário,0.76
+2022-08-01,5.Transportes,-5.24
+2022-08-01,6.Saúde e cuidados pessoais,0.81
+2022-08-01,7.Despesas pessoais,0.81
+2022-08-01,8.Educação,0.61
+2022-08-01,9.Comunicação,-0.3
+2022-09-01,1.Alimentação e bebidas,-0.47
+2022-09-01,2.Habitação,0.47
+2022-09-01,3.Artigos de residência,0.24
+2022-09-01,4.Vestuário,1.66
+2022-09-01,5.Transportes,-2.35
+2022-09-01,6.Saúde e cuidados pessoais,0.94
+2022-09-01,7.Despesas pessoais,0.83
+2022-09-01,8.Educação,0.12
+2022-09-01,9.Comunicação,-2.74
+2022-10-01,1.Alimentação e bebidas,0.21
+2022-10-01,2.Habitação,0.28
+2022-10-01,3.Artigos de residência,-0.35
+2022-10-01,4.Vestuário,1.43
+2022-10-01,5.Transportes,-0.64
+2022-10-01,6.Saúde e cuidados pessoais,0.8
+2022-10-01,7.Despesas pessoais,0.57
+2022-10-01,8.Educação,0.19
+2022-10-01,9.Comunicação,-0.42
+2022-11-01,1.Alimentação e bebidas,0.54
+2022-11-01,2.Habitação,0.48
+2022-11-01,3.Artigos de residência,0.54
+2022-11-01,4.Vestuário,1.48
+2022-11-01,5.Transportes,0.49
+2022-11-01,6.Saúde e cuidados pessoais,0.91
+2022-11-01,7.Despesas pessoais,0.27
+2022-11-01,8.Educação,0.05
+2022-11-01,9.Comunicação,0
+2022-12-01,1.Alimentação e bebidas,0.69
+2022-12-01,2.Habitação,0.4
+2022-12-01,3.Artigos de residência,-0.46
+2022-12-01,4.Vestuário,1.16
+2022-12-01,5.Transportes,0.85
+2022-12-01,6.Saúde e cuidados pessoais,0.4
+2022-12-01,7.Despesas pessoais,0.39
+2022-12-01,8.Educação,0
+2022-12-01,9.Comunicação,0.18
+2023-01-01,1.Alimentação e bebidas,0.55
+2023-01-01,2.Habitação,0.17
+2023-01-01,3.Artigos de residência,0.38
+2023-01-01,4.Vestuário,0.42
+2023-01-01,5.Transportes,0.17
+2023-01-01,6.Saúde e cuidados pessoais,1.1
+2023-01-01,7.Despesas pessoais,0.57
+2023-01-01,8.Educação,0.36
+2023-01-01,9.Comunicação,2.36
+2023-02-01,1.Alimentação e bebidas,0.39
+2023-02-01,2.Habitação,0.63
+2023-02-01,3.Artigos de residência,0.71
+2023-02-01,4.Vestuário,-0.05
+2023-02-01,5.Transportes,0.08
+2023-02-01,6.Saúde e cuidados pessoais,0.55
+2023-02-01,7.Despesas pessoais,0.63
+2023-02-01,8.Educação,6.41
+2023-02-01,9.Comunicação,0.78
+2023-03-01,1.Alimentação e bebidas,0.2
+2023-03-01,2.Habitação,0.81
+2023-03-01,3.Artigos de residência,-0.18
+2023-03-01,4.Vestuário,0.11
+2023-03-01,5.Transportes,1.5
+2023-03-01,6.Saúde e cuidados pessoais,1.18
+2023-03-01,7.Despesas pessoais,0.28
+2023-03-01,8.Educação,0.08
+2023-03-01,9.Comunicação,0.75
+2023-04-01,1.Alimentação e bebidas,0.04
+2023-04-01,2.Habitação,0.48
+2023-04-01,3.Artigos de residência,0.07
+2023-04-01,4.Vestuário,0.39
+2023-04-01,5.Transportes,1.44
+2023-04-01,6.Saúde e cuidados pessoais,1.04
+2023-04-01,7.Despesas pessoais,0.28
+2023-04-01,8.Educação,0.11
+2023-04-01,9.Comunicação,0.06
+2023-05-01,1.Alimentação e bebidas,0.94
+2023-05-01,2.Habitação,0.43
+2023-05-01,3.Artigos de residência,-0.28
+2023-05-01,4.Vestuário,0.35
+2023-05-01,5.Transportes,-0.04
+2023-05-01,6.Saúde e cuidados pessoais,1.49
+2023-05-01,7.Despesas pessoais,0.4
+2023-05-01,8.Educação,0.07
+2023-05-01,9.Comunicação,0.02
+2023-06-01,1.Alimentação e bebidas,-0.51
+2023-06-01,2.Habitação,0.96
+2023-06-01,3.Artigos de residência,-0.01
+2023-06-01,4.Vestuário,0.79
+2023-06-01,5.Transportes,-0.55
+2023-06-01,6.Saúde e cuidados pessoais,0.19
+2023-06-01,7.Despesas pessoais,0.52
+2023-06-01,8.Educação,0.04
+2023-06-01,9.Comunicação,0.11
+2023-07-01,1.Alimentação e bebidas,-0.4
+2023-07-01,2.Habitação,-0.94
+2023-07-01,3.Artigos de residência,-0.4
+2023-07-01,4.Vestuário,0.04
+2023-07-01,5.Transportes,0.63
+2023-07-01,6.Saúde e cuidados pessoais,0.07
+2023-07-01,7.Despesas pessoais,0.38
+2023-07-01,8.Educação,0.11
+2023-07-01,9.Comunicação,-0.17
+2023-08-01,1.Alimentação e bebidas,-0.65
+2023-08-01,2.Habitação,1.08
+2023-08-01,3.Artigos de residência,0.01
+2023-08-01,4.Vestuário,-0.03
+2023-08-01,5.Transportes,0.23
+2023-08-01,6.Saúde e cuidados pessoais,0.81
+2023-08-01,7.Despesas pessoais,0.6
+2023-08-01,8.Educação,0.71
+2023-08-01,9.Comunicação,0.04
+2023-09-01,1.Alimentação e bebidas,-0.77
+2023-09-01,2.Habitação,0.3
+2023-09-01,3.Artigos de residência,-0.47
+2023-09-01,4.Vestuário,0.41
+2023-09-01,5.Transportes,2.02
+2023-09-01,6.Saúde e cuidados pessoais,0.17
+2023-09-01,7.Despesas pessoais,0.35
+2023-09-01,8.Educação,0.05
+2023-09-01,9.Comunicação,-0.15
+2023-10-01,1.Alimentação e bebidas,-0.31
+2023-10-01,2.Habitação,0.26
+2023-10-01,3.Artigos de residência,0.05
+2023-10-01,4.Vestuário,0.33
+2023-10-01,5.Transportes,0.78
+2023-10-01,6.Saúde e cuidados pessoais,0.28
+2023-10-01,7.Despesas pessoais,0.31
+2023-10-01,8.Educação,0.07
+2023-10-01,9.Comunicação,-0.29
+2023-11-01,1.Alimentação e bebidas,0.82
+2023-11-01,2.Habitação,0.2
+2023-11-01,3.Artigos de residência,0.24
+2023-11-01,4.Vestuário,0.55
+2023-11-01,5.Transportes,0.18
+2023-11-01,6.Saúde e cuidados pessoais,0.08
+2023-11-01,7.Despesas pessoais,0.52
+2023-11-01,8.Educação,0.03
+2023-11-01,9.Comunicação,-0.22
+2023-12-01,1.Alimentação e bebidas,0.54
+2023-12-01,2.Habitação,0.48
+2023-12-01,3.Artigos de residência,-0.15
+2023-12-01,4.Vestuário,0.03
+2023-12-01,5.Transportes,0.77
+2023-12-01,6.Saúde e cuidados pessoais,0.14
+2023-12-01,7.Despesas pessoais,0.56
+2023-12-01,8.Educação,0.05
+2023-12-01,9.Comunicação,-0.46
+2024-01-01,1.Alimentação e bebidas,1.53
+2024-01-01,2.Habitação,0.33
+2024-01-01,3.Artigos de residência,0.26
+2024-01-01,4.Vestuário,0.22
+2024-01-01,5.Transportes,-1.13
+2024-01-01,6.Saúde e cuidados pessoais,0.56
+2024-01-01,7.Despesas pessoais,0.56
+2024-01-01,8.Educação,0.39
+2024-01-01,9.Comunicação,-0.03
+2024-02-01,1.Alimentação e bebidas,0.97
+2024-02-01,2.Habitação,0.14
+2024-02-01,3.Artigos de residência,0.45
+2024-02-01,4.Vestuário,-0.39
+2024-02-01,5.Transportes,0.15
+2024-02-01,6.Saúde e cuidados pessoais,0.76
+2024-02-01,7.Despesas pessoais,0.46
+2024-02-01,8.Educação,5.07
+2024-02-01,9.Comunicação,1.67
+2024-03-01,1.Alimentação e bebidas,0.91
+2024-03-01,2.Habitação,0.19
+2024-03-01,3.Artigos de residência,-0.58
+2024-03-01,4.Vestuário,-0.22
+2024-03-01,5.Transportes,0.43
+2024-03-01,6.Saúde e cuidados pessoais,0.61
+2024-03-01,7.Despesas pessoais,-0.07
+2024-03-01,8.Educação,0.14
+2024-03-01,9.Comunicação,-0.04
+2024-04-01,1.Alimentação e bebidas,0.61
+2024-04-01,2.Habitação,0.07
+2024-04-01,3.Artigos de residência,0.03
+2024-04-01,4.Vestuário,0.41
+2024-04-01,5.Transportes,-0.49
+2024-04-01,6.Saúde e cuidados pessoais,0.78
+2024-04-01,7.Despesas pessoais,0.4
+2024-04-01,8.Educação,0.05
+2024-04-01,9.Comunicação,0.17
+2024-05-01,1.Alimentação e bebidas,0.26
+2024-05-01,2.Habitação,0.25
+2024-05-01,3.Artigos de residência,-0.44
+2024-05-01,4.Vestuário,0.66
+2024-05-01,5.Transportes,0.77
+2024-05-01,6.Saúde e cuidados pessoais,1.07
+2024-05-01,7.Despesas pessoais,0.18
+2024-05-01,8.Educação,0.11
+2024-05-01,9.Comunicação,0.18
+2024-06-01,1.Alimentação e bebidas,0.98
+2024-06-01,2.Habitação,0.63
+2024-06-01,3.Artigos de residência,-0.01
+2024-06-01,4.Vestuário,0.3
+2024-06-01,5.Transportes,-0.23
+2024-06-01,6.Saúde e cuidados pessoais,0.57
+2024-06-01,7.Despesas pessoais,0.25
+2024-06-01,8.Educação,0.05
+2024-06-01,9.Comunicação,0.17
+2024-07-01,1.Alimentação e bebidas,-0.44
+2024-07-01,2.Habitação,0.49
+2024-07-01,3.Artigos de residência,0.24
+2024-07-01,4.Vestuário,-0.08
+2024-07-01,5.Transportes,1.12
+2024-07-01,6.Saúde e cuidados pessoais,0.33
+2024-07-01,7.Despesas pessoais,0.32
+2024-07-01,8.Educação,0.06
+2024-07-01,9.Comunicação,0.09
+2024-08-01,1.Alimentação e bebidas,-0.8
+2024-08-01,2.Habitação,0.18
+2024-08-01,3.Artigos de residência,0.71
+2024-08-01,4.Vestuário,0.09
+2024-08-01,5.Transportes,0.83
+2024-08-01,6.Saúde e cuidados pessoais,0.27
+2024-08-01,7.Despesas pessoais,0.43
+2024-08-01,8.Educação,0.75
+2024-08-01,9.Comunicação,0.09
+2024-09-01,1.Alimentação e bebidas,0.05
+2024-09-01,2.Habitação,0.5
+2024-09-01,3.Artigos de residência,0.17
+2024-09-01,4.Vestuário,0.12
+2024-09-01,5.Transportes,-0.08
+2024-09-01,6.Saúde e cuidados pessoais,0.32
+2024-09-01,7.Despesas pessoais,-0.04
+2024-09-01,8.Educação,0.05
+2024-09-01,9.Comunicação,0.07
+2024-10-01,1.Alimentação e bebidas,0.87
+2024-10-01,2.Habitação,1.72
+2024-10-01,3.Artigos de residência,0.41
+2024-10-01,4.Vestuário,0.43
+2024-10-01,5.Transportes,-0.33
+2024-10-01,6.Saúde e cuidados pessoais,0.49
+2024-10-01,7.Despesas pessoais,0.35
+2024-10-01,8.Educação,0.05
+2024-10-01,9.Comunicação,0.4
+2024-11-01,1.Alimentação e bebidas,1.34
+2024-11-01,2.Habitação,0.22
+2024-11-01,3.Artigos de residência,0.11
+2024-11-01,4.Vestuário,0.36
+2024-11-01,5.Transportes,0.82
+2024-11-01,6.Saúde e cuidados pessoais,0.18
+2024-11-01,7.Despesas pessoais,0.83
+2024-11-01,8.Educação,-0.01
+2024-11-01,9.Comunicação,0.11
+2024-12-01,1.Alimentação e bebidas,1.47
+2024-12-01,2.Habitação,-1.32
+2024-12-01,3.Artigos de residência,-0.52
+2024-12-01,4.Vestuário,0.34
+2024-12-01,5.Transportes,0.46
+2024-12-01,6.Saúde e cuidados pessoais,-0.05
+2024-12-01,7.Despesas pessoais,1.36
+2024-12-01,8.Educação,0
+2024-12-01,9.Comunicação,0.08
+2025-01-01,1.Alimentação e bebidas,1.06
+2025-01-01,2.Habitação,-3.43
+2025-01-01,3.Artigos de residência,0.72
+2025-01-01,4.Vestuário,0.46
+2025-01-01,5.Transportes,1.01
+2025-01-01,6.Saúde e cuidados pessoais,0.64
+2025-01-01,7.Despesas pessoais,0.4
+2025-01-01,8.Educação,0.25
+2025-01-01,9.Comunicação,0.15
+2025-02-01,1.Alimentação e bebidas,0.61
+2025-02-01,2.Habitação,4.34
+2025-02-01,3.Artigos de residência,0.38
+2025-02-01,4.Vestuário,-0.08
+2025-02-01,5.Transportes,0.44
+2025-02-01,6.Saúde e cuidados pessoais,0.54
+2025-02-01,7.Despesas pessoais,0.01
+2025-02-01,8.Educação,4.78
+2025-02-01,9.Comunicação,-0.06
+2025-03-01,1.Alimentação e bebidas,1.09
+2025-03-01,2.Habitação,0.37
+2025-03-01,3.Artigos de residência,0.03
+2025-03-01,4.Vestuário,0.28
+2025-03-01,5.Transportes,0.92
+2025-03-01,6.Saúde e cuidados pessoais,0.35
+2025-03-01,7.Despesas pessoais,0.81
+2025-03-01,8.Educação,0.07
+2025-03-01,9.Comunicação,0.32
+2025-04-01,1.Alimentação e bebidas,1.14
+2025-04-01,2.Habitação,0.09
+2025-04-01,3.Artigos de residência,0.37
+2025-04-01,4.Vestuário,0.76
+2025-04-01,5.Transportes,-0.44
+2025-04-01,6.Saúde e cuidados pessoais,0.96
+2025-04-01,7.Despesas pessoais,0.53
+2025-04-01,8.Educação,0.06
+2025-04-01,9.Comunicação,0.52
+2025-05-01,1.Alimentação e bebidas,0.39
+2025-05-01,2.Habitação,0.67
+2025-05-01,3.Artigos de residência,-0.07
+2025-05-01,4.Vestuário,0.92
+2025-05-01,5.Transportes,-0.29
+2025-05-01,6.Saúde e cuidados pessoais,0.91
+2025-05-01,7.Despesas pessoais,0.5
+2025-05-01,8.Educação,0.09
+2025-05-01,9.Comunicação,0.27
+2025-06-01,1.Alimentação e bebidas,-0.02
+2025-06-01,2.Habitação,1.08
+2025-06-01,3.Artigos de residência,0.11
+2025-06-01,4.Vestuário,0.51
+2025-06-01,5.Transportes,0.06
+2025-06-01,6.Saúde e cuidados pessoais,0.29
+2025-06-01,7.Despesas pessoais,0.19
+2025-06-01,8.Educação,-0.02
+2025-06-01,9.Comunicação,0.02
+2025-07-01,1.Alimentação e bebidas,-0.06
+2025-07-01,2.Habitação,0.98
+2025-07-01,3.Artigos de residência,-0.02
+2025-07-01,4.Vestuário,-0.1
+2025-07-01,5.Transportes,0.67
+2025-07-01,6.Saúde e cuidados pessoais,0.21
+2025-07-01,7.Despesas pessoais,0.25
+2025-07-01,8.Educação,0
+2025-07-01,9.Comunicação,0.11
+2025-08-01,1.Alimentação e bebidas,-0.53
+2025-08-01,2.Habitação,-1.13
+2025-08-01,3.Artigos de residência,0.03
+2025-08-01,4.Vestuário,0.17
+2025-08-01,5.Transportes,-0.47
+2025-08-01,6.Saúde e cuidados pessoais,0.64
+2025-08-01,7.Despesas pessoais,1.09
+2025-08-01,8.Educação,0.78
+2025-08-01,9.Comunicação,-0.17
+2025-09-01,1.Alimentação e bebidas,-0.35
+2025-09-01,2.Habitação,3.31
+2025-09-01,3.Artigos de residência,-0.16
+2025-09-01,4.Vestuário,0.97
+2025-09-01,5.Transportes,-0.25
+2025-09-01,6.Saúde e cuidados pessoais,0.36
+2025-09-01,7.Despesas pessoais,0.2
+2025-09-01,8.Educação,0.03
+2025-09-01,9.Comunicação,-0.08
+2025-10-01,1.Alimentação e bebidas,-0.02
+2025-10-01,2.Habitação,0.16
+2025-10-01,3.Artigos de residência,-0.64
+2025-10-01,4.Vestuário,0.45
+2025-10-01,5.Transportes,0.41
+2025-10-01,6.Saúde e cuidados pessoais,0.24
+2025-10-01,7.Despesas pessoais,0.42
+2025-10-01,8.Educação,0.09
+2025-10-01,9.Comunicação,-0.09
+2025-11-01,1.Alimentação e bebidas,0.09
+2025-11-01,2.Habitação,0.09
+2025-11-01,3.Artigos de residência,-0.2
+2025-11-01,4.Vestuário,0.19
+2025-11-01,5.Transportes,0.22
+2025-11-01,6.Saúde e cuidados pessoais,0.29
+2025-11-01,7.Despesas pessoais,0.85
+2025-11-01,8.Educação,0.05
+2025-11-01,9.Comunicação,-0.19
+2025-12-01,1.Alimentação e bebidas,0.13
+2025-12-01,2.Habitação,0.17
+2025-12-01,3.Artigos de residência,-0.64
+2025-12-01,4.Vestuário,0.69
+2025-12-01,5.Transportes,0.69
+2025-12-01,6.Saúde e cuidados pessoais,-0.01
+2025-12-01,7.Despesas pessoais,0.46
+2025-12-01,8.Educação,0
+2025-12-01,9.Comunicação,0.01
+2026-01-01,1.Alimentação e bebidas,0.31
+2026-01-01,2.Habitação,-0.26
+2026-01-01,3.Artigos de residência,0.43
+2026-01-01,4.Vestuário,0.28
+2026-01-01,5.Transportes,-0.13
+2026-01-01,6.Saúde e cuidados pessoais,0.81
+2026-01-01,7.Despesas pessoais,0.28
+2026-01-01,8.Educação,0.05
+2026-01-01,9.Comunicação,0.73
+2026-02-01,1.Alimentação e bebidas,0.2
+2026-02-01,2.Habitação,0.06
+2026-02-01,3.Artigos de residência,0.21
+2026-02-01,4.Vestuário,-0.42
+2026-02-01,5.Transportes,1.72
+2026-02-01,6.Saúde e cuidados pessoais,0.67
+2026-02-01,7.Despesas pessoais,0.2
+2026-02-01,8.Educação,5.2
+2026-02-01,9.Comunicação,0.39
+2026-03-01,1.Alimentação e bebidas,0.88
+2026-03-01,2.Habitação,0.24
+2026-03-01,3.Artigos de residência,0.37
+2026-03-01,4.Vestuário,0.47
+2026-03-01,5.Transportes,0.21
+2026-03-01,6.Saúde e cuidados pessoais,0.36
+2026-03-01,7.Despesas pessoais,0.82
+2026-03-01,8.Educação,0.05
+2026-03-01,9.Comunicação,0.03
+2026-04-01,1.Alimentação e bebidas,1.46
+2026-04-01,2.Habitação,0.42
+2026-04-01,3.Artigos de residência,0.48
+2026-04-01,4.Vestuário,0.76
+2026-04-01,5.Transportes,1.34
+2026-04-01,6.Saúde e cuidados pessoais,0.93
+2026-04-01,7.Despesas pessoais,0.32
+2026-04-01,8.Educação,0.05
+2026-04-01,9.Comunicação,0.48
+2026-05-01,1.Alimentação e bebidas,1.38
+2026-05-01,2.Habitação,1.03
+2026-05-01,3.Artigos de residência,0.21
+2026-05-01,4.Vestuário,0.36
+2026-05-01,5.Transportes,-0.33
+2026-05-01,6.Saúde e cuidados pessoais,1.05
+2026-05-01,7.Despesas pessoais,0.5
+2026-05-01,8.Educação,0.01
+2026-05-01,9.Comunicação,0.36
+2026-06-01,1.Alimentação e bebidas,0.74
+2026-06-01,2.Habitação,0.72
+2026-06-01,3.Artigos de residência,0.36
+2026-06-01,4.Vestuário,0.45
+2026-06-01,5.Transportes,-0.03
+2026-06-01,6.Saúde e cuidados pessoais,0.47
+2026-06-01,7.Despesas pessoais,0.34
+2026-06-01,8.Educação,-0.02
+2026-06-01,9.Comunicação,0.34
+2026-07-01,1.Alimentação e bebidas,-0.66
+2026-07-01,2.Habitação,0.97
+2026-07-01,3.Artigos de residência,0.19
+2026-07-01,4.Vestuário,-0.33
+2026-07-01,5.Transportes,0.11
+2026-07-01,6.Saúde e cuidados pessoais,0.28
+2026-07-01,7.Despesas pessoais,0.08
+2026-07-01,8.Educação,-0.04
+2026-07-01,9.Comunicação,-0.02
